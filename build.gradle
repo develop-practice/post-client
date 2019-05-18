@@ -30,9 +30,3 @@ subprojects {
         mavenCentral()
     }
 }
-
-dependencies {
-    compile 'org.springframework.boot:spring-boot-starter-web'
-    compileOnly 'org.projectlombok:lombok'
-    testCompile 'org.springframework.boot:spring-boot-starter-test'
-}
