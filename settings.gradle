@@ -1,3 +1,4 @@
 rootProject.name = 'blank'
 
 include 'blank-rest-app'
+enableFeaturePreview('STABLE_PUBLISHING')
