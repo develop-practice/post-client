@@ -1,4 +1,4 @@
-rootProject.name = 'blank'
+rootProject.name = 'post-client'
 
 include 'blank-rest-app'
 enableFeaturePreview('STABLE_PUBLISHING')
